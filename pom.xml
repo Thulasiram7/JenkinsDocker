@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>springboot-github-jenkins-dockerhub</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
